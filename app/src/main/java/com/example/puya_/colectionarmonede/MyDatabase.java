@@ -69,6 +69,7 @@ public class MyDatabase extends SQLiteOpenHelper {
         values.put(COLUMN_SEX,u.getSex());
         values.put(COLUMN_EMAIL,u.getEmail());
         values.put(COLUMN_PASSWORD,u.getParola());
+
         SQLiteDatabase db = this.getWritableDatabase();
 
         db.insert(TABLE_NAME,null,values);

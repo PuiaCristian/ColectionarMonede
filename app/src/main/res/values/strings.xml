@@ -15,4 +15,14 @@
     <string name="password_signUp">Password:</string>
     <string name="retypepassword_signUp_textView">Retype Password:</string>
     <string name="add_signUp">Add</string>
+    <string name="evenimente_meniuPrincipal_button">EVENIMENTE</string>
+    <string name="licitatii_meniuPrincipal_button">LICITATII</string>
+    <string name="profil_meniuPrincipal_button">PROFIL</string>
+    <string name="utilizatori_meniuPrincipal_button">UTILIZATORI</string>
+    <string name="about_meniuPrincipal_button">ABOUT</string>
+    <string name="descriere_about_editText">Descriere Adi</string>
+    <string name="user_profil_tv">user</string>
+    <string name="nume_profil_tv">Nume</string>
+    <string name="prenume_profil_tv">Prenume</string>
+    <string name="adaugaMoneda_profil_button">Adauga Moneda</string>
 </resources>
