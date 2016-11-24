@@ -15,4 +15,8 @@
     <string name="password_signUp">Password:</string>
     <string name="retypepassword_signUp_textView">Retype Password:</string>
     <string name="add_signUp">Add</string>
+    <string name="nume_evenimente">Nume:</string>
+    <string name="locatie_evenimente">Locatie:</string>
+    <string name="descriere_evenimente">Descriere:</string>
+    <string name="adaugaEv_evenimente">Adauga Evenimente</string>
 </resources>

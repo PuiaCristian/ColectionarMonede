@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SignUp" />
-        <activity android:name=".MeniuPrincipal"></activity>
+        <activity android:name=".MeniuPrincipal" />
+        <activity android:name=".Evenimente" />
+        <activity android:name=".AdaugaEvenimente"></activity>
     </application>
 
 </manifest>
